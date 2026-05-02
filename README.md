@@ -1,3 +1,11 @@
+![Profile Photo](images/profilephoto.jpg)
+
+![GitHub followers](https://img.shields.io/github/followers/dollagraceambwaya-commits?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/dollagraceambwaya-commits/finance-tracker-week-12)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+
+
 # Hi there 👋
 
 ## Hi, I'm Dolla Grace
@@ -12,12 +20,14 @@
 - Markdown, Python, HTML & CSS, Machine Learning
 
 ## Current Projects
-- I’ll be adding my first projects here as I learn
+- [Finance Tracker — Income Module](https://github.com/dollagraceambwaya-commits/finance-tracker-week-12)
+
 
 ## Currently Learning
-- Advanced JavaScript (async workflows, DOM events)  
-- Repo organization & README documentation
-- React fundamentals (components, props, state, hooks)
+- JavaScript (ES6), React 18, Vite
+- HTML, CSS
+- Git & GitHub
+
 ## How to Reach Me
 - Email: [dollagraceambwaya@gmail.com](mailto:dollagraceambwaya@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/dolla-grace)
