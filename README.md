@@ -1,10 +1,8 @@
 # Hi there, I'm Dolla Grace Ambwaya! 👋
 
-<p align="left">
-  <img src="https://shields.io" alt="GitHub followers" />
-  <img src="https://shields.io" alt="License" />
-</p>
+### 👩‍💻 Full-Stack Developer | 🚀 MERN Stack Specialist | 📍 Nairobi, Kenya
 
+---
 
 I am an aspiring **Full-Stack Developer** and **Software Professional** based in Nairobi, Kenya. With a unique background blending **Information Technology, Records Management, and Digital Marketing**, I engineer responsive, user-friendly web applications designed to solve real-world problems. 
 
