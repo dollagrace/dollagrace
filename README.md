@@ -63,5 +63,5 @@ I focus on building robust applications using the **MERN Stack**, blending techn
 
 Let's collaborate on forward-thinking digital products or chat about software engineering opportunities!
 
-- **💼 LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- **💼 LinkedIn:** [://linkedin.com](https://www.://linkedin.com/in/dolla-grace)
 - **📧 Email:** [dollagraceambwaya@gmail.com](mailto:dollagraceambwaya@gmail.com)
