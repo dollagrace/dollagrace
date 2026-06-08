@@ -1,5 +1,10 @@
 # Hi there, I'm Dolla Grace Ambwaya! 👋
 
+<p align="center">
+  <img src="profilephoto.jpg" width="280" alt="Dolla Grace Ambwaya" style="border-radius: 50%;" />
+</p>
+
+
 ### 👩‍💻 Full-Stack Developer | 🚀 MERN Stack Specialist | 📍 Nairobi, Kenya
 
 ---
