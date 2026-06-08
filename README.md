@@ -4,7 +4,7 @@
 
 ---
 
-I am an aspiring **Full-Stack Developer** and **Software Professional** based in Nairobi, Kenya. With a unique background blending **Information Technology, Records Management, and Digital Marketing**, I engineer responsive, user-friendly web applications designed to solve real-world problems. 
+I am an aspiring **Full-Stack Developer** and **Software Professional** based in Nairobi, Kenya. With a unique professional background blending **Information Technology, Records Management, and Digital Marketing**, I engineer responsive, user-friendly web applications designed to solve real-world problems. 
 
 I focus on building robust applications using the **MERN Stack**, blending technical functionality with intuitive user experience.
 
@@ -13,7 +13,7 @@ I focus on building robust applications using the **MERN Stack**, blending techn
 ## 🚀 About Me
 - 🔭 **Current Focus:** Building scalable web apps and refining backend REST API architectures.
 - ⚡ **Unique Edge:** My background in IT systems and SEO gives me a sharp eye for data organization, clean logic, and user engagement strategies.
-- 👩+💻 **Advocacy:** Passionate about innovation, continuous learning, and supporting women in technology.
+- 👩‍💻 **Advocacy:** Passionate about innovation, continuous learning, and supporting women in technology.
 - 💬 **Let's Talk About:** React, Node.js, database integration, or digital growth strategies.
 
 ---
@@ -21,20 +21,20 @@ I focus on building robust applications using the **MERN Stack**, blending techn
 ## 🛠️ Tech Stack & Tooling
 
 ### 🌐 Frontend Development
-![JavaScript](https://shields.io)
-![React](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+- 🟨 **JavaScript (ES6+)** - Advanced interactive scripting
+- ⚛️ **React.js** - Component-based user interface development
+- 🧡 **HTML5** - Semantic web structuring
+- 💙 **CSS3** - Responsive layouts and modern styling
 
 ### ⚙️ Backend & Databases
-![NodeJS](https://shields.io)
-![Express.js](https://shields.io)
-![MongoDB](https://shields.io)
+- 🟢 **Node.js** - Scalable server-side runtime environments
+- 🚂 **Express.js** - Robust RESTful API engineering
+- 🍃 **MongoDB** - NoSQL database architecture and integration
 
 ### 🔧 Tools & Workflows
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![Postman](https://shields.io)
+- 🌿 **Git & GitHub** - Distributed version control and collaboration
+- 🚀 **Postman** - API endpoint testing and documentation
+- 📊 **Systems Analysis** - Logical data organization and workflow structure
 
 ---
 
@@ -54,17 +54,9 @@ I focus on building robust applications using the **MERN Stack**, blending techn
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="Dolla Grace's GitHub Stats" width="480" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 Let's collaborate on forward-thinking digital products or chat about software engineering opportunities!
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:dollagraceambwaya@gmail.com)
+- **💼 LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- **📧 Email:** [dollagraceambwaya@gmail.com](mailto:dollagraceambwaya@gmail.com)
