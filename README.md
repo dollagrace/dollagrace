@@ -1,14 +1,13 @@
-![Profile Photo](images/profilephoto.jpg)
+# Hi there, I'm Dolla Grace Ambwaya! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/dollagraceambwaya-commits?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/dollagraceambwaya-commits/finance-tracker-week-12)
-![License](https://img.shields.io/badge/license-MIT-green)
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="GitHub followers">
+  </a>
+  <img src="https://shields.io" alt="License">
+</p>
 
-
-
-# Hi there, I'm Dolla Grace! 👋
-
-I am a **Full-Stack Developer** and **Software Professional** based in Nairobi, Kenya. With a unique professional background blending **Information Technology, Records Management, and Digital Marketing**, I engineer responsive, user-friendly web applications designed to solve real-world problems. 
+I am an aspiring **Full-Stack Developer** and **Software Professional** based in Nairobi, Kenya. With a unique background blending **Information Technology, Records Management, and Digital Marketing**, I engineer responsive, user-friendly web applications designed to solve real-world problems. 
 
 I focus on building robust applications using the **MERN Stack**, blending technical functionality with intuitive user experience.
 
@@ -17,7 +16,7 @@ I focus on building robust applications using the **MERN Stack**, blending techn
 ## 🚀 About Me
 - 🔭 **Current Focus:** Building scalable web apps and refining backend REST API architectures.
 - ⚡ **Unique Edge:** My background in IT systems and SEO gives me a sharp eye for data organization, clean logic, and user engagement strategies.
-- 👩‍💻 **Advocacy:** Passionate about innovation, continuous learning, and supporting women in technology.
+- 👩+💻 **Advocacy:** Passionate about innovation, continuous learning, and supporting women in technology.
 - 💬 **Let's Talk About:** React, Node.js, database integration, or digital growth strategies.
 
 ---
@@ -72,22 +71,3 @@ Let's collaborate on forward-thinking digital products or chat about software en
 
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Email](https://shields.io)](mailto:dollagraceambwaya@gmail.com)
-
-
-  
-
-
-<!--
-**dollagraceambwaya-commits/dollagraceambwaya-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
